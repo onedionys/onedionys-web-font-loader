@@ -1,6 +1,6 @@
 {
   "name": "onedionys-web-font-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Web Font Loader) - Functions to load and manage the use of web fonts in applications, ensuring consistent display across different devices.",
   "main": "src/webFontLoader.js",
   "directories": {
